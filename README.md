@@ -1,1 +1,1 @@
-# DSProjects
+Contains codes for various competitions
