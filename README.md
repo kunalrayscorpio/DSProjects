@@ -1,1 +1,1 @@
-Contains codes for various Data Science Projects
+Code for Project - Bankruptcy prediction of commercial entities using financial ratios.
