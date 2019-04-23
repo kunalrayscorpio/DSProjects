@@ -1,1 +1,1 @@
-Contains codes for various competitions
+Contains codes for various Data Science Projects
